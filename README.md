@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rodolfo Puyat III
 
 ### 👨‍💻 About Me
-I'm Rodolfo Puyat III, an IT professional and passionate developer specializing in web development and graphic design. I have experience as an IT instructor, where I taught Computer Programming, Data Structures, and more. I am a strong advocate for creating impactful and efficient solutions through technology.
+I'm an IT professional and passionate developer specializing in web development and graphic design. I have experience as an IT instructor, where I taught Computer Programming, Data Structures, and more. I am a strong advocate for creating impactful and efficient solutions through technology.
 
 ### 🏆 Education
 - **Bachelor of Science in Information Technology**  
