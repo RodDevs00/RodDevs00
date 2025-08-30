@@ -10,9 +10,13 @@ I'm an IT professional and passionate developer specializing in web development 
   **Award:** Competence in Practicum Award
 
 ### 💼 Experience
+- **Software Developer**  
+  DevTac CRM, Inc.
+  _July 2025 – Present_
+
 - **IT Instructor**  
   Asian Development Foundation College, Tacloban City  
-  _July 2022 – Present_
+  _July 2022 – July 2025_
 
 - **IT Intern**  
   Leyte Normal University, Research and Development Office  
