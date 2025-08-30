@@ -11,7 +11,7 @@ I'm an IT professional and passionate developer specializing in web development 
 
 ### 💼 Experience
 - **Software Developer**  
-  DevTac CRM, Inc.
+  DevTac CRM, Inc
   _July 2025 – Present_
 
 - **IT Instructor**  
