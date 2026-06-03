@@ -3,29 +3,6 @@
 ### 👨‍💻 About Me
 I'm an IT professional and passionate developer specializing in web development and graphic design. I have experience as an IT instructor, where I taught Computer Programming, Data Structures, and more. I am a strong advocate for creating impactful and efficient solutions through technology.
 
-### 🏆 Education
-- **Bachelor of Science in Information Technology**  
-  Leyte Normal University, Tacloban City  
-  **Year Graduated:** 2022  
-  **Award:** Competence in Practicum Award
-
-### 💼 Experience
-- **Software Developer**  
-  DevTac CRM, Inc<br>
-  _July 2025 – Present_
-
-- **IT Instructor**  
-  Asian Development Foundation College, Tacloban City  
-  _July 2022 – July 2025_
-
-- **IT Intern**  
-  Leyte Normal University, Research and Development Office  
-  _March 2022 – July 2022_
-
-### 💻 Skills
-- **Web Development:** PHP, JavaScript, HTML, CSS, Bootstrap, Laravel, Vue.js, SQL, Git  
-- **Graphic & UI Design:** Adobe Photoshop, Illustrator, Premiere Pro, Adobe XD, Figma  
-- **Other Skills:** Strong Oral Communication
 
 ### 🚀 Projects
 1. **[Document Tracking System](https://github.com/RodDevs00/Document-Tracking-System)**  
